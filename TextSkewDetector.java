@@ -14,6 +14,10 @@ import org.opencv.core.Size;
 import org.opencv.highgui.Highgui;
 import org.opencv.imgproc.Imgproc;
 
+/*
+Author:Tanwir Zaman
+Text Skew Angle Wavelets (TSAW) for detection skew angle of images with text.
+*/
 
 public class TextSkewDetector {
 
